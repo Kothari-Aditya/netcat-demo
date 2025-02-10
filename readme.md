@@ -140,6 +140,6 @@ All images related to the execution of the above Netcat demonstrations can be fo
 | ------------------ | ----------- | ----- |
 | Aditya Kothari     | 16010122329 | C1    |
 | Prashant Prajapati | 16010122322 | C1    |
-| Nishar Kunj        | 16010122810 | C2    |
+| Nishar Kunj        | 16010123810 | C2    |
 
 
